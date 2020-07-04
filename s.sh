@@ -19,10 +19,10 @@ command
 
     #touch README.md;
     #echo "init" > README.md;
-    git add .;
-    git commit -m "Cleanup";
+    #git add .;
+    #git commit -m "Cleanup";
     # finally pull
-    git push;
+    git pull;
 
     # lets get back to the CUR_DIR
     cd $CUR_DIR
