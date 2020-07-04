@@ -22,7 +22,7 @@ command
     git add .;
     git commit -m "Cleanup";
     # finally pull
-    git pull;
+    git push;
 
     # lets get back to the CUR_DIR
     cd $CUR_DIR
