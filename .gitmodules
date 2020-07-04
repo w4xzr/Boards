@@ -1,57 +1,57 @@
 [submodule "Breakout-Boards/THT/LOG/LOG-100"]
 	path = Breakout-Boards/THT/LOG/LOG-100
-	url = git@github.com:w4xzr/LOG-100.git
+	url = https://github.com/w4xzr/LOG-100.git
 [submodule "Breakout-Boards/THT/LOG/LOG-101"]
 	path = Breakout-Boards/THT/LOG/LOG-101
-	url = git@github.com:w4xzr/LOG-101.git
+	url = https://github.com/w4xzr/LOG-101.git
 [submodule "Breakout-Boards/THT/LOG/LOG-102"]
 	path = Breakout-Boards/THT/LOG/LOG-102
-	url = git@github.com:w4xzr/LOG-102.git
+	url = https://github.com/w4xzr/LOG-102.git
 [submodule "Project-Boards/KAT/KAT-101"]
 	path = Project-Boards/KAT/KAT-101
-	url = git@github.com:w4xzr/KAT-101.git
+	url = https://github.com/w4xzr/KAT-101.git
 [submodule "Project-Boards/KAT/KAT-102"]
 	path = Project-Boards/KAT/KAT-102
-	url = git@github.com:w4xzr/KAT-102.git
+	url = https://github.com/w4xzr/KAT-102.git
 [submodule "Project-Boards/KAT/KAT-103"]
 	path = Project-Boards/KAT/KAT-103
-	url = git@github.com:w4xzr/KAT-103.git
+	url = https://github.com/w4xzr/KAT-103.git
 [submodule "Proto-Boards/MNT/MNT-100"]
 	path = Proto-Boards/MNT/MNT-100
-	url = git@github.com:w4xzr/MNT-100.git
+	url = https://github.com/w4xzr/MNT-100.git
 [submodule "Proto-Boards/MNT/MNT-101"]
 	path = Proto-Boards/MNT/MNT-101
-	url = git@github.com:w4xzr/MNT-101.git
+	url = https://github.com/w4xzr/MNT-101.git
 [submodule "Proto-Boards/MNT/MNT-102"]
 	path = Proto-Boards/MNT/MNT-102
-	url = git@github.com:w4xzr/MNT-102.git
+	url = https://github.com/w4xzr/MNT-102.git
 [submodule "Proto-Boards/PIN/PIN-100"]
 	path = Proto-Boards/PIN/PIN-100
-	url = git@github.com:w4xzr/PIN-100.git
+	url = https://github.com/w4xzr/PIN-100.git
 [submodule "Proto-Boards/PIN/PIN-101"]
 	path = Proto-Boards/PIN/PIN-101
-	url = git@github.com:w4xzr/PIN-101.git
+	url = https://github.com/w4xzr/PIN-101.git
 [submodule "Proto-Boards/PIN/PIN-102"]
 	path = Proto-Boards/PIN/PIN-102
-	url = git@github.com:w4xzr/PIN-102.git
+	url = https://github.com/w4xzr/PIN-102.git
 [submodule "Proto-Boards/PIN/PIN-103"]
 	path = Proto-Boards/PIN/PIN-103
-	url = git@github.com:w4xzr/PIN-103.git
+	url = https://github.com/w4xzr/PIN-103.git
 [submodule "Proto-Boards/PIN/PIN-104"]
 	path = Proto-Boards/PIN/PIN-104
-	url = git@github.com:w4xzr/PIN-104.git
+	url = https://github.com/w4xzr/PIN-104.git
 [submodule "Proto-Boards/PIN/PIN-105"]
 	path = Proto-Boards/PIN/PIN-105
-	url = git@github.com:w4xzr/PIN-105.git
+	url = https://github.com/w4xzr/PIN-105.git
 [submodule "Proto-Boards/PIN/PIN-106"]
 	path = Proto-Boards/PIN/PIN-106
-	url = git@github.com:w4xzr/PIN-106.git
+	url = https://github.com/w4xzr/PIN-106.git
 [submodule "Proto-Boards/PRO/PRO-100"]
 	path = Proto-Boards/PRO/PRO-100
-	url = git@github.com:w4xzr/PRO-100.git
+	url = https://github.com/w4xzr/PRO-100.git
 [submodule "Proto-Boards/PRO/PRO-101"]
 	path = Proto-Boards/PRO/PRO-101
-	url = git@github.com:w4xzr/PRO-101.git
+	url = https://github.com/w4xzr/PRO-101.git
 [submodule "Proto-Boards/PRO/PRO-102"]
 	path = Proto-Boards/PRO/PRO-102
-	url = git@github.com:w4xzr/PRO-102.git
+	url = https://github.com/w4xzr/PRO-102.git
